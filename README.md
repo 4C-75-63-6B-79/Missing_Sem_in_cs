@@ -67,4 +67,5 @@ This is a proof of what I did in **[Missing Semester of the CS](https://missing.
 - Then we learned how to go through the commands that we have already used. First using up arrow. Then **history** command which print all the commands used.
 - We can combine the history command with grep command to find the specifc command.
 - There also the ctrl+r key binding to do the backward search where we can type the command to find it in history. We can the keep hitting ctrl+r and then it will go through all the matches.
+- In the end some tools in lecture were discussed which were not present on my wsl.
 </details>
